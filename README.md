@@ -26,7 +26,6 @@ Installing pip...................done.
 
 You will need to allow port 5000 through the firewall.  
 
-TO DO:
 Or deploy via Chef cookbook: https://github.com/niven01/python-api  
 
 
