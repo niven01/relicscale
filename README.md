@@ -7,7 +7,7 @@ This version is looking for alerts sent from a monitored application (not server
 
 ####Setting up server
 
-git clone git@github.com:AutomationSupport/relic-scale.git
+git clone git@github.com:AutomationSupport/relicscale.git
 
 ```
 - mkdir /api
