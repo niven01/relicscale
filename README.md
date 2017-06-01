@@ -1,11 +1,11 @@
-###RelicScale
+### RelicScale
 
 This is a simple Python and Flask RESTful api that sits between Newrelic and Autoscale. This can obviously be used for other tasks but the code her eis exepcting input frpm Newrelic.
 
 This version is looking for alerts sent from a monitored application (not server). Newrelic will trigger an alert based on its APDEX score.
 
 
-####Setting up server
+#### Setting up server
 
 git clone git@github.com:AutomationSupport/relicscale.git
 
@@ -26,7 +26,7 @@ Installing pip...................done.
 
 You will need to allow port 5000 through the firewall.  
 
-####Usage
+#### Usage
 
 RelicScale looks for the following application alert criteria
 
